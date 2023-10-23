@@ -1,1 +1,2 @@
-print(1.5 % 1)
+i = "adfgghlgjhkgjhkdfgfjhuigl"
+print(i[12:23])
