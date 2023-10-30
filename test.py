@@ -1,2 +1,1 @@
-i = "adfgghlgjhkgjhkdfgfjhuigl"
-print(i[12:23])
+print(1 % 10)
