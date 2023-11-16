@@ -1,1 +1,1 @@
-print(1 % 10)
+print(int("987"))
